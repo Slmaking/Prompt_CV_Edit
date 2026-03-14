@@ -1,153 +1,69 @@
 
+---
 
-### Prompt: Resume Edit
+# 📄 Resume Editing & Optimization Prompts
 
-## 1. Resume Review (ATS Optimization)
+This repository contains **structured prompts designed to improve resumes for job applications**, particularly focusing on **ATS (Applicant Tracking System) optimization** and **job-description alignment**.
 
-Act as a **professional recruiter and ATS specialist**.
+The prompts are organized into **three steps**, guiding users from resume analysis to a fully optimized version tailored for a specific role.
 
-Review my resume and identify any **formatting, wording, or structural issues** that could prevent it from passing an **Applicant Tracking System (ATS)**.
+---
 
-Provide suggestions to improve:
+
+## 1️⃣ Resume Review – ATS Optimization
+
+Analyze an existing resume and identify improvements to make it **ATS-friendly** and clearer for recruiters.
+
+This step focuses on:
 
 * Keyword optimization
-* Clarity and conciseness
-* Professional tone
-* Impact of bullet points
-* Use of metrics and measurable results
-* ATS-friendly formatting
+* Structure and formatting improvements
+* Identifying missing or weak sections
+* Improving readability for ATS systems
 
-If necessary, suggest **rewriting specific bullet points** to improve impact.
-
----
-
-## 2. Job Description Analysis
-
-I will provide a **job description**.
-
-Please analyze it and summarize the information under the following **four independent categories**. Only list **relevant keywords or terms**. Do not add explanations.
-
-### Required Tools or Skills
-
-List technical tools, programming languages, software, platforms, or professional skills.
-
-Example:
-Power BI, SQL, Python, Azure Data Factory, ETL pipelines, Data Modeling, Tableau
+🔗 **Prompt:**
+[https://github.com/Slmaking/Prompt_CV_Edit/blob/main/1.txt](https://github.com/Slmaking/Prompt_CV_Edit/blob/main/1.txt)
 
 ---
 
-### Suggested Experience or Background
+## 2️⃣ Job Description Analysis
 
-List professional experiences related to the role.
+Analyze the job posting to extract **key requirements, skills, and keywords**.
 
-Example:
-Business Intelligence development, Data analytics, Financial data analysis, Dashboard development, Data pipeline development
+This step helps identify:
 
----
+* Critical skills required for the role
+* Important technical keywords
+* Hidden expectations in the job description
+* Alignment between the resume and job requirements
 
-### Background Knowledge Required
-
-List relevant academic knowledge, disciplines, or theoretical areas.
-
-Example:
-Statistics, Data Science, Computer Science, Machine Learning, Database systems, Data modeling
+🔗 **Prompt:**
+[https://github.com/Slmaking/Prompt_CV_Edit/blob/main/2.txt](https://github.com/Slmaking/Prompt_CV_Edit/blob/main/2.txt)
 
 ---
 
-### Job Requirements and Characteristics
+## 3️⃣ Resume Rewriting Based on the Job Description
 
-List personality traits and working styles expected for the role.
+Rewrite the resume so it **matches the job description more effectively** while maintaining accuracy.
 
-Example:
-Analytical thinking, Strong communication skills, Problem-solving mindset, Attention to detail, Ability to work with cross-functional teams
+This step focuses on:
 
----
+* Tailoring bullet points to match the role
+* Integrating relevant keywords naturally
+* Highlighting the most relevant experience
+* Improving impact and clarity
 
-If you understand, reply:
-
-**“I understand. Please provide the job description.”**
-
----
-
-## 3. Resume Rewriting Based on Job Description
-
-After analyzing the job description, I will provide **my resume experience**.
-
-Rewrite my experience according to these rules:
-
-### Organize the Experience
-
-Group my experience into **2–3 key achievements** that best match the job description.
-
-* Keep experiences relevant to the role
-* Remove irrelevant tasks
-* Emphasize impact and technical contributions
+🔗 **Prompt:**
+[https://github.com/Slmaking/Prompt_CV_Edit/blob/main/3.txt](https://github.com/Slmaking/Prompt_CV_Edit/blob/main/3.txt)
 
 ---
 
-### Structure for Each Bullet
+# 📌 How to Use
 
-Each bullet must follow this structure:
+1. Start with **Prompt 1** to analyze the resume.
+2. Use **Prompt 2** to analyze the job description.
+3. Apply **Prompt 3** to generate the optimized resume.
 
-**Tool / Technology + Task / Responsibility + Measurable Result**
-
-Example structure:
-
-> Built ETL pipelines using Azure Data Factory and SQL to automate sales data ingestion, processing over **10M records daily** and reducing manual reporting time by **70%**.
+This workflow ensures the resume is **ATS-optimized, aligned with the job posting, and recruiter-friendly**.
 
 ---
-
-### Word Choice
-
-Use **accurate and professional language** such as:
-
-* Developed
-* Built
-* Implemented
-* Designed
-* Automated
-* Optimized
-* Analyzed
-
-Avoid exaggerated claims.
-
----
-
-### Data Support
-
-Whenever possible, include **quantifiable impact**:
-
-Examples:
-
-* Increased reporting efficiency by **30%**
-* Processed **10M+ records**
-* Reduced manual work by **70%**
-* Used by **100+ business users**
-
----
-
-### Missing Information
-
-If my resume lacks required information for the role, mark it clearly as:
-
-**[Information needed: ...]**
-
-so I can update it later.
-
----
-
-# Better Example (Using YOUR Resume)
-
-Instead of the generic software example, use something like this:
-
-### Example Output
-
-Business Intelligence Developer
-
-1. **Built automated ETL pipelines using Azure Data Factory and SQL**, ingesting and transforming **10M+ sales and inventory records daily**, enabling near real-time analytics across multiple markets.
-
-2. **Developed Power BI dashboards and semantic models** to track product performance, promotions, and ROI, used by **100+ finance and commercial users** for strategic decision-making.
-
-3. **Integrated sales, promotion, and cost datasets using Python and SQL**, creating product-level ROI analytics that improved campaign evaluation and helped identify promotions increasing sales by **30%+**.
-
-
