@@ -1,6 +1,6 @@
 
 
-### Prompt: Resume ATS Optimization & Rewriting
+### Prompt: Resume Edit
 
 ## 1. Resume Review (ATS Optimization)
 
