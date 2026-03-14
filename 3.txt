@@ -1,0 +1,80 @@
+After analyzing the job description, I will provide **my resume experience**.
+
+Rewrite my experience according to these rules:
+
+### Organize the Experience
+
+Group my experience into **2–3 key achievements** that best match the job description.
+
+* Keep experiences relevant to the role
+* Remove irrelevant tasks
+* Emphasize impact and technical contributions
+
+---
+
+### Structure for Each Bullet
+
+Each bullet must follow this structure:
+
+**Tool / Technology + Task / Responsibility + Measurable Result**
+
+Example structure:
+
+> Built ETL pipelines using Azure Data Factory and SQL to automate sales data ingestion, processing over **10M records daily** and reducing manual reporting time by **70%**.
+
+---
+
+### Word Choice
+
+Use **accurate and professional language** such as:
+
+* Developed
+* Built
+* Implemented
+* Designed
+* Automated
+* Optimized
+* Analyzed
+
+Avoid exaggerated claims.
+
+---
+
+### Data Support
+
+Whenever possible, include **quantifiable impact**:
+
+Examples:
+
+* Increased reporting efficiency by **30%**
+* Processed **10M+ records**
+* Reduced manual work by **70%**
+* Used by **100+ business users**
+
+---
+
+### Missing Information
+
+If my resume lacks required information for the role, mark it clearly as:
+
+**[Information needed: ...]**
+
+so I can update it later.
+
+---
+
+# Better Example (Using YOUR Resume)
+
+Instead of the generic software example, use something like this:
+
+### Example Output
+
+Business Intelligence Developer
+
+1. **Built automated ETL pipelines using Azure Data Factory and SQL**, ingesting and transforming **10M+ sales and inventory records daily**, enabling near real-time analytics across multiple markets.
+
+2. **Developed Power BI dashboards and semantic models** to track product performance, promotions, and ROI, used by **100+ finance and commercial users** for strategic decision-making.
+
+3. **Integrated sales, promotion, and cost datasets using Python and SQL**, creating product-level ROI analytics that improved campaign evaluation and helped identify promotions increasing sales by **30%+**.
+
+
