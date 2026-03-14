@@ -1,0 +1,44 @@
+
+I will provide a **job description**.
+
+Please analyze it and summarize the information under the following **four independent categories**. Only list **relevant keywords or terms**. Do not add explanations.
+
+### Required Tools or Skills
+
+List technical tools, programming languages, software, platforms, or professional skills.
+
+Example:
+Power BI, SQL, Python, Azure Data Factory, ETL pipelines, Data Modeling, Tableau
+
+---
+
+### Suggested Experience or Background
+
+List professional experiences related to the role.
+
+Example:
+Business Intelligence development, Data analytics, Financial data analysis, Dashboard development, Data pipeline development
+
+---
+
+### Background Knowledge Required
+
+List relevant academic knowledge, disciplines, or theoretical areas.
+
+Example:
+Statistics, Data Science, Computer Science, Machine Learning, Database systems, Data modeling
+
+---
+
+### Job Requirements and Characteristics
+
+List personality traits and working styles expected for the role.
+
+Example:
+Analytical thinking, Strong communication skills, Problem-solving mindset, Attention to detail, Ability to work with cross-functional teams
+
+---
+
+If you understand, reply:
+
+**“I understand. Please provide the job description.”**
