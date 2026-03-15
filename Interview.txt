@@ -1,0 +1,250 @@
+Here is a **clean, structured README version** of your content. I organized it so it is easy to read on GitHub and removed repetitions while keeping your examples.
+
+---
+
+# Interview Preparation Prompts & Example Responses
+
+This repository provides structured prompts and examples to help prepare for job interviews. It includes guidance on behavioral questions, technical questions, scenario-based questions, personal storytelling, and industry research.
+
+---
+
+# 1. Behavioral Interview Questions
+
+**Prompt**
+
+Act as an expert in Human Resources specializing in crafting and evaluating interview questions. Provide a comprehensive list of behavioral interview questions tailored for the **[job title]**.
+
+The questions should:
+
+* Reveal insights about the candidate’s past work experiences, behaviors, and decision-making.
+* Focus on competencies such as:
+
+  * Teamwork
+  * Problem-solving
+  * Leadership
+  * Communication
+  * Adaptability
+* Encourage candidates to share **specific examples from past experiences**.
+
+Additionally, include guidance on **what ideal responses should contain**, helping interviewers evaluate candidate potential and cultural fit.
+
+---
+
+# 2. Technical Interview Questions
+
+**Prompt**
+
+Act as an HR expert assistant and compile a list of **technical interview questions** for the **[job title]**.
+
+The questions should:
+
+* Assess the candidate’s **technical expertise and depth of knowledge**
+* Evaluate **problem-solving skills**
+* Include **scenario-based technical questions**
+* Test **adaptability and learning agility with new technologies**
+
+The goal is to identify candidates who:
+
+* Meet technical requirements
+* Demonstrate analytical thinking
+* Align with the company’s values and culture.
+
+---
+
+# 3. Scenario-Based Interview Questions
+
+**Prompt**
+
+Act as an HR expert assistant tasked with crafting **scenario-based questions** for the **[job title]**.
+
+These questions should:
+
+* Evaluate **problem-solving abilities**
+* Assess **strategic thinking**
+* Reflect **real-world situations** related to the role
+* Encourage candidates to explain **how they would handle challenges**
+
+Questions should be **open-ended** to generate deeper insights into the candidate’s mindset and approach.
+
+---
+
+# 4. Answering “Tell Me About Yourself”
+
+**Prompt**
+
+Act as an interview expert and craft a compelling answer to the **“Tell Me About Yourself”** question based on the candidate’s background.
+
+The response should:
+
+* Highlight **relevant experience and achievements**
+* Tell a **clear career story**
+* Connect past experience with the **current role**
+* Demonstrate **motivation and future potential**
+
+The answer should balance **professional accomplishments with personal insights**, leaving a strong first impression.
+
+---
+
+# 5. Discussing Strengths and Weaknesses
+
+**Prompt**
+
+Create a guide on how to effectively discuss **strengths and weaknesses** during an interview.
+
+The guide should include:
+
+### Strengths
+
+* Align strengths with **job requirements**
+* Provide **real examples**
+* Demonstrate measurable impact
+
+### Weaknesses
+
+* Show **self-awareness**
+* Explain **how you are improving**
+* Frame weaknesses as **growth opportunities**
+
+The goal is to balance **confidence and humility** while leaving a positive impression.
+
+---
+
+# 6. Discussing Career Goals
+
+**Prompt**
+
+Craft a strategic response describing **career goals** during a job interview.
+
+The response should:
+
+* Present **short-term and long-term goals**
+* Align with the **company’s mission**
+* Demonstrate **ambition and growth mindset**
+* Show how personal growth contributes to **company success**
+
+---
+
+# 7. Industry Research Preparation
+
+**Prompt**
+
+Act as an interview preparation expert focused on **[specific industry]**.
+
+Conduct research on:
+
+* Current industry trends
+* Key companies and competitors
+* Market challenges and opportunities
+* Skills valued by employers
+
+Use this information to craft answers demonstrating **deep industry knowledge** and alignment with employer needs.
+
+---
+
+# 8. Mock Interview Practice
+
+**Prompt**
+
+Act as an interviewer conducting a **mock interview for the [job title] position**.
+
+The mock interview should include:
+
+* Behavioral questions
+* Technical questions
+* Scenario-based questions
+* Cultural fit evaluation
+
+After the interview:
+
+* Provide **constructive feedback**
+* Identify **areas for improvement**
+* Suggest **strategies for stronger responses**
+
+---
+
+# Example Experience (CAR Method)
+
+To answer behavioral questions effectively, you can use the **CAR method**:
+
+* **Context** – Describe the situation and your role
+* **Action** – Explain what you did
+* **Result** – Show the measurable outcome
+
+---
+
+# Example: Data Analytics Experience at Intact
+
+At Intact, I gained **two years of experience working with data analytics in the Azure ecosystem**.
+
+My responsibilities included:
+
+* Using **Azure SQL Database** to create and manage databases
+* Writing **SQL queries** for data extraction and table creation
+* Performing **data cleaning and transformation**
+* Orchestrating data pipelines with **Azure Data Factory**
+* Performing analytics with **Azure Databricks**
+
+In addition:
+
+* I have **4 years of experience with Python**, using:
+
+  * Pandas
+  * NumPy
+  * Matplotlib
+* I also use **R for statistical analysis and visualization**, including:
+
+  * ggplot2
+  * dplyr
+
+These tools allow me to transform complex datasets into **actionable insights**.
+
+---
+
+# Example CAR Story
+
+## Project: Smartphone Data Reorientation Algorithm
+
+### Context
+
+At Intact, I worked on a project aligning **smartphone sensor data with vehicle telemetry data** to improve accuracy in driving behavior analysis. I led the technical work while collaborating with an external data provider.
+
+### Action
+
+I implemented **A/B testing and statistical validation** to evaluate the data quality. To handle missing data more effectively, I introduced **second-degree interpolation using NumPy in Python**, replacing the previous Azure query approach.
+
+Through further analysis, I discovered issues with the provider’s data reorientation process and developed an **internal solution**.
+
+### Result
+
+The new approach increased the **correlation between data features by 35%**, significantly improving data reliability. This led to a **policy change within the company** for handling this dataset.
+
+---
+
+## Project: Crash Detection Algorithm
+
+### Context
+
+I led a project to develop **machine learning algorithms for crash detection** under tight deadlines. The project required building and labeling a large dataset for training predictive models.
+
+### Action
+
+I coordinated a team using **Azure cloud infrastructure** for data storage and hyperparameter tuning.
+
+Technologies used:
+
+* Python (Jupyter)
+* SQL for data extraction
+* Random Forest & Decision Trees
+* XGBoost
+* TensorFlow (Bi-directional LSTM)
+* Power BI and Matplotlib for visualization
+
+### Result
+
+The final model:
+
+* Improved prediction performance by **20%**
+* Reduced computation time by **10%**
+
+These improvements significantly increased the system’s efficiency and reliability.
+
