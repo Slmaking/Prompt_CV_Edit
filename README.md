@@ -56,6 +56,18 @@ This step focuses on:
 🔗 **Prompt:**
 [https://github.com/Slmaking/Prompt_CV_Edit/blob/main/3.txt](https://github.com/Slmaking/Prompt_CV_Edit/blob/main/3.txt)
 
+
+
+## 4️⃣ Interview test
+
+Create mock interview 
+
+🔗 **Prompt:**
+[https://github.com/Slmaking/Prompt_CV_Edit/blob/main/Interview.txt](https://github.com/Slmaking/Prompt_CV_Edit/blob/main/Interview.txt)
+
+
+
+
 ---
 
 # 📌 How to Use
